@@ -1,0 +1,8 @@
+tensorflow
+numpy
+opencv-python
+mss
+pydirectinput
+pandas
+scikit-learn
+keyboard
